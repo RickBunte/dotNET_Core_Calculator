@@ -5,4 +5,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="obj\dotNET_Core_Calculator.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\dotNET_Core_Calculator.csproj.nuget.cache" />
+    <None Include="obj\dotNET_Core_Calculator.csproj.nuget.g.props" />
+    <None Include="obj\dotNET_Core_Calculator.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
 </Project>
