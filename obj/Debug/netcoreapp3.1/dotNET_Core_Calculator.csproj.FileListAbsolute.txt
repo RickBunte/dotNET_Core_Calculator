@@ -4,7 +4,6 @@ D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\bin\D
 D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\bin\Debug\netcoreapp3.1\dotNET_Core_Calculator.runtimeconfig.dev.json
 D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\bin\Debug\netcoreapp3.1\dotNET_Core_Calculator.dll
 D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\bin\Debug\netcoreapp3.1\dotNET_Core_Calculator.pdb
-D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\obj\Debug\netcoreapp3.1\dotNET_Core_Calculator.csprojAssemblyReference.cache
 D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\obj\Debug\netcoreapp3.1\dotNET_Core_Calculator.AssemblyInfoInputs.cache
 D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\obj\Debug\netcoreapp3.1\dotNET_Core_Calculator.AssemblyInfo.cs
 D:\GitHub Projects\Portfolio\dotNET_Core_Calculator\dotNET_Core_Calculator\obj\Debug\netcoreapp3.1\dotNET_Core_Calculator.csproj.CoreCompileInputs.cache

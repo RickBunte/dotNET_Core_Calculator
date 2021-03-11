@@ -42,7 +42,15 @@ namespace dotNET_Core_Calculator
             bool validCalculation = true;
             float[] numbers = new float[2];
             string usedOperator = "";
-            foreach (string output in calculation.Split(" "))
+            string[] splitCalculation = calculation.Split(" ");
+            
+            if(splitCalculation.Length > 3)
+            {
+                Console.WriteLine($"\nSorry, but this calculator only takes simplistic input!");
+                return;
+            }
+
+            foreach (string output in splitCalculation)
             {
                 if (float.TryParse(output, out float fNum))
                 {
